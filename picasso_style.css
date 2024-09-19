@@ -1,3 +1,15 @@
+@media screen and (max-width: 768px) {
+  body {
+    background-color: rgb(119, 117, 243) !important;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  body {
+    background-color: rgb(124, 197, 242) !important;
+  }
+}
+
 body{
     background-color: rgb(213, 235, 219);
     z-index: -2;
@@ -161,14 +173,3 @@ body{
     z-index: 2;
   }
 
-  @media screen and (min-width: 400px) {
-    body {
-      background-color: rgb(119, 117, 243);
-    }
-  }
-
-  @media screen and (min-width: 800px) {
-    body {
-      background-color: rgb(124, 197, 242);
-    }
-  }
