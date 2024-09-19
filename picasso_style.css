@@ -21,6 +21,11 @@ body{
   margin-left: 5%;
 }
 
+.centerLocation{
+  text-align: center;
+  border: 3px solid green;
+}
+
 .someSpace{
   margin-bottom: 10%;
 }
@@ -99,7 +104,7 @@ body{
     /* display: inline-block; */
     position: absolute;
     left: 10%;
-    top: 5%;
+    top: 15%;
     opacity: 0.4;
     z-index: 1;
   }
@@ -123,8 +128,8 @@ body{
     border-radius: 50%;
     /* display: inline-block; */
     position: absolute;
-    left: 65%;
-    top: 10px;
+    left: 55%;
+    top: 15%;
     height: 7em;
     /* opacity: 0.9; */
     z-index: 2;
@@ -134,7 +139,7 @@ body{
 
     width: 15%;
     height: 18%;
-    background-color: #c1ea7c;
+    background-color: #48c5e8;
     border-radius: 50%;
     /* display: inline-block; */
     position: absolute;
