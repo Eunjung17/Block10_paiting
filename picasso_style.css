@@ -21,6 +21,13 @@ body{
   margin-left: 5%;
 }
 
+.someSpace{
+  margin-bottom: 10%;
+}
+/* .formSize div{
+  margin-bottom: 20%;
+}  */
+
 .flex-container {
   display: flex;
   flex-wrap: nowrap;
